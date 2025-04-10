@@ -1,7 +1,7 @@
 # Airbnb_Machine_Learning_Project
 
-Part A: Airbnb Price Prediction and Insights<br>
-Part B: Customer Churn Prediction<br>
+**Part A: Airbnb Price Prediction and Insights**<br>
+**Part B: Customer Churn Prediction**<br>
 
 ## Part A: Airbnb Price Prediction and Insights
 ### Overview<br>
