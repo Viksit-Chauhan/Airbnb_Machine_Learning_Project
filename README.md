@@ -3,6 +3,8 @@
 **Part A: Airbnb Price Prediction and Insights**<br>
 **Part B: Customer Churn Prediction**<br>
 
+**Note:** Airbnb datasets not uploaded due to larger size instead there are files for Datasets Information.<br>
+
 ## Part A: Airbnb Price Prediction and Insights
 ### Overview<br>
  Airbnb provides a platform for property owners to rent out their spaces to travelers. Pricing a
